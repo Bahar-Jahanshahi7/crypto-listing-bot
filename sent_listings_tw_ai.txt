@@ -55,3 +55,6 @@ http://x.com/coinbase/status/2070883035289980989#m
 http://x.com/coinbase/status/2070883033633202380#m
 http://x.com/bitget/status/2070900084141953499#m
 http://x.com/bitget/status/2070889780569878619#m
+http://x.com/kucoincom/status/2070915057815589223#m
+http://x.com/okx/status/2070923109033509069#m
+http://x.com/okx/status/2070917095055823309#m
