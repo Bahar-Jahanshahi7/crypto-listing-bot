@@ -173,8 +173,13 @@ async def main_pipeline():
     sent_tweets = load_sent_tweets()
     today_date = datetime.now(timezone.utc).date()
     
-    tasks = [check_single_account(account, sent_tweets, today_date) for account in TWITTER_ACCOUNTS]
-    await asyncio.gather(*tasks)
+    # به جای اجرای هم‌زمان با gather، اکانت‌ها را تک‌تک با فاصله چند ثانیه‌ای چک می‌کنیم
+    for account in TWITTER_ACCOUNTS:
+        await check_single_account(account, sent_tweets, today_date)
+        # یک تاخیر کوتاه ۳ ثانیه‌ای بین بررسی هر اکانت می‌ذاریم تا محدودیت رایگان جمنای پر نشه
+        await asyncio.sleep(3)
 
+if __name__ == "__main__":
+    asyncio.run(main_pipeline())
 if __name__ == "__main__":
     asyncio.run(main_pipeline())
