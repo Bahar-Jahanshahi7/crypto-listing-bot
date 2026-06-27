@@ -19,7 +19,7 @@ DB_FILE = "sent_listings_tw_ai.txt"
 
 # لیست اکانت‌های رسمی صرافی‌ها و بخش‌های اعلام لیستینگ آن‌ها در توییتر
 TWITTER_ACCOUNTS = [
-    "BinanceHelpDesk", "binance", "bitget" , "Bitget_Global" , "Bybit_Official", "MEXC" , "Gate" , "kucoincom" , "okx", "BingXOfficial" , "krakenfx" , "coinbase"
+    "BinanceHelpDesk", "binance", "bitget" , "Bybit_Official", "MEXC" , "Gate" , "kucoincom" , "okx", "BingXOfficial" , "krakenfx" , "coinbase"
 ]
 
 # لیست سرورهای فعال Nitter
