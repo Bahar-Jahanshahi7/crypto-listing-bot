@@ -601,3 +601,8 @@ http://x.com/Gate/status/2073029106615095368#m
 http://x.com/Gate/status/2073029104190779486#m
 http://x.com/okx/status/2073044614949339321#m
 http://x.com/coinbase/status/2073037429150245265#m
+http://x.com/binance/status/2073074933001806061#m
+http://x.com/bitget/status/2073059298503012683#m
+http://x.com/kucoincom/status/2073066578929934542#m
+http://x.com/okx/status/2073074537948721381#m
+http://x.com/BingXOfficial/status/2073068522423329206#m
