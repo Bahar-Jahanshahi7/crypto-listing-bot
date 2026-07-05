@@ -723,3 +723,9 @@ http://x.com/binance/status/2073739336604868746#m
 http://x.com/bitget/status/2073738668054094261#m
 http://x.com/MEXC/status/2073741315918242221#m
 http://x.com/BingXOfficial/status/2073747408861716671#m
+http://x.com/Bybit_Official/status/2073768867524944263#m
+http://x.com/Bybit_Official/status/2073768864798687362#m
+http://x.com/MEXC/status/2073764629407502470#m
+http://x.com/MEXC/status/2073764608104656909#m
+http://x.com/BingXOfficial/status/2073770587302830206#m
+http://x.com/coinbase/status/2073769333289853358#m
