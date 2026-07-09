@@ -1129,3 +1129,9 @@ http://x.com/krakenfx/status/2075244112236707849#m
 http://x.com/coinbase/status/2075256747296760051#m
 http://x.com/coinbase/status/2075256734961287680#m
 http://x.com/CoinbaseMarkets/status/2075236124180492731#m
+http://x.com/binance/status/2075278904642740658#m
+http://x.com/bitget/status/2075263716829143260#m
+http://x.com/Bybit_Official/status/2075278817627693455#m
+http://x.com/Bybit_Official/status/2075278815475986590#m
+http://x.com/BingXOfficial/status/2075263964129497340#m
+http://x.com/KrakenInsto/status/2075272031554445521#m
