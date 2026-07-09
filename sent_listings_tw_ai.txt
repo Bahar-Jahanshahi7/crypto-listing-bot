@@ -1146,3 +1146,6 @@ http://x.com/binance/status/2075312289138499718#m
 http://x.com/Route2FI/status/2075235713902141686#m
 http://x.com/okx/status/2075317845651554810#m
 http://x.com/BingXOfficial/status/2075315805441409265#m
+http://x.com/MEXC/status/2075339215542366327#m
+http://x.com/okx/status/2075342571866304941#m
+http://x.com/BingXOfficial/status/2075339486876008920#m
