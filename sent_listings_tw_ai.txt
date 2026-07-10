@@ -1247,3 +1247,4 @@ http://x.com/bitget/status/2075686577804583059#m
 http://x.com/okx/status/2075686268617584729#m
 http://x.com/RVanGrack/status/2075674256894214218#m
 http://x.com/coinbase/status/2075677386528481330#m
+http://x.com/binance/status/2075701818294755713#m
