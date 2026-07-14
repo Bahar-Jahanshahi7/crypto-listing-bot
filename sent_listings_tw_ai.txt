@@ -1462,3 +1462,6 @@ http://x.com/coinbase/status/2076768772346769697#m
 http://x.com/okx/status/2076781245032185987#m
 http://x.com/BingXOfficial/status/2076778191461458076#m
 http://x.com/bitget/status/2076803865408839988#m
+http://x.com/binance/status/2076819175184445639#m
+http://x.com/kucoincom/status/2076818962352898530#m
+http://x.com/BingXOfficial/status/2076819237260103803#m
