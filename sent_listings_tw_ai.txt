@@ -1941,3 +1941,7 @@ http://x.com/coinbase/status/2078175007797096461#m
 http://x.com/binance/status/2078178202627739696#m
 http://x.com/Bybit_Official/status/2078177917335380455#m
 http://x.com/MEXC/status/2078177916299493649#m
+http://x.com/bitget/status/2078193125273600164#m
+http://x.com/DonWedge/status/2078060857158664643#m
+http://x.com/okx/status/2078200881741193612#m
+http://x.com/BingXOfficial/status/2078200075851878624#m
