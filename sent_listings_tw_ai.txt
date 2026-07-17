@@ -1938,3 +1938,6 @@ http://x.com/MEXC/status/2078147718363361287#m
 http://x.com/kucoincom/status/2078162818902401206#m
 http://x.com/krakenfx/status/2078164074018255119#m
 http://x.com/coinbase/status/2078175007797096461#m
+http://x.com/binance/status/2078178202627739696#m
+http://x.com/Bybit_Official/status/2078177917335380455#m
+http://x.com/MEXC/status/2078177916299493649#m
