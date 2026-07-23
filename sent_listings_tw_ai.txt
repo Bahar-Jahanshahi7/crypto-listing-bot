@@ -2543,3 +2543,7 @@ http://x.com/coinbase/status/2080322207645863979#m
 http://x.com/bitget/status/2080337240216015095#m
 http://x.com/kucoincom/status/2080326652593152365#m
 http://x.com/BingXOfficial/status/2080325496790028320#m
+http://x.com/binance/status/2080352249021411373#m
+http://x.com/okx/status/2080360047234761009#m
+http://x.com/krakenfx/status/2080356914416787898#m
+http://x.com/DavidLRipley/status/2080136835146363345#m
