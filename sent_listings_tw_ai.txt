@@ -2540,3 +2540,6 @@ http://x.com/okx/status/2080314545776517203#m
 http://x.com/krakenfx/status/2080306638003564997#m
 http://x.com/coinbase/status/2080322538882711707#m
 http://x.com/coinbase/status/2080322207645863979#m
+http://x.com/bitget/status/2080337240216015095#m
+http://x.com/kucoincom/status/2080326652593152365#m
+http://x.com/BingXOfficial/status/2080325496790028320#m
