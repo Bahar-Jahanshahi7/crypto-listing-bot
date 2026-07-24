@@ -2659,3 +2659,8 @@ http://x.com/coinbase/status/2080708127754981733#m
 http://x.com/MEXC/status/2080729731507368365#m
 http://x.com/okx/status/2080745112632537117#m
 http://x.com/BingXOfficial/status/2080742590333194700#m
+http://x.com/binance/status/2080759935277957336#m
+http://x.com/Bybit_Official/status/2080759932790464920#m
+http://x.com/Bybit_Official/status/2080759930257039738#m
+http://x.com/kucoincom/status/2080752144148246585#m
+http://x.com/kucoincom/status/2080751907270783288#m
