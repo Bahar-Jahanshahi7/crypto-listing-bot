@@ -2633,3 +2633,8 @@ http://x.com/Gate/status/2080639245903884654#m
 http://x.com/kucoincom/status/2080632928305082860#m
 http://x.com/okx/status/2080631858618937793#m
 http://x.com/BingXOfficial/status/2080628642577813560#m
+http://x.com/bitget/status/2080546950433390881#m
+http://x.com/Gate/status/2080669484159742044#m
+http://x.com/okx/status/2080676938616598719#m
+http://x.com/BingXOfficial/status/2080661722470179091#m
+http://x.com/coinbase/status/2080657843879878802#m
