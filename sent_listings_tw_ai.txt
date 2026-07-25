@@ -2702,3 +2702,10 @@ http://x.com/Gate/status/2080941230351941899#m
 http://x.com/Gate/status/2080941227113857383#m
 http://x.com/kucoincom/status/2080956231410172338#m
 http://x.com/okx/status/2080948989612925361#m
+http://x.com/binance/status/2080986642274279878#m
+http://x.com/Bybit_Official/status/2080986675468017725#m
+http://x.com/Bybit_Official/status/2080986672796188812#m
+http://x.com/MEXC/status/2080986431120691389#m
+http://x.com/MEXC/status/2080986430281572485#m
+http://x.com/kucoincom/status/2080986432395698345#m
+http://x.com/BingXOfficial/status/2080985554628248021#m
