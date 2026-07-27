@@ -2890,3 +2890,7 @@ http://x.com/coinbase/status/2081741499197260150#m
 http://x.com/bitget/status/2081787837436055969#m
 http://x.com/bitget/status/2081779270142333292#m
 http://x.com/coinbase/status/2081795850976555087#m
+http://x.com/binance/status/2081807676548190351#m
+http://x.com/MEXC/status/2081801798030069875#m
+http://x.com/okx/status/2081809594851156413#m
+http://x.com/BingXOfficial/status/2081809118109524041#m
