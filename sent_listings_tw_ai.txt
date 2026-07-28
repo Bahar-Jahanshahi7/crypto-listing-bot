@@ -2899,3 +2899,6 @@ http://x.com/Bybit_Official/status/2081831740805386293#m
 http://x.com/binance/status/2081847240990056829#m
 http://x.com/okx/status/2081852904143507583#m
 http://x.com/BingXOfficial/status/2081847872169861630#m
+http://x.com/binance/status/2081892514269733308#m
+http://x.com/okx/status/2081901307758104887#m
+http://x.com/BingXOfficial/status/2081899441007571068#m
