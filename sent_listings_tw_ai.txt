@@ -3002,3 +3002,14 @@ http://x.com/MEXC/status/2082224588826747020#m
 http://x.com/binance/status/2082254971878142392#m
 http://x.com/kucoincom/status/2082254781624848668#m
 http://x.com/okx/status/2082262625321202092#m
+http://x.com/binance/status/2082300791574897083#m
+http://x.com/bitget/status/2082299721532760328#m
+http://x.com/bitget/status/2082299718684881045#m
+http://x.com/Bybit_Official/status/2082284980286152805#m
+http://x.com/Bybit_Official/status/2082284978172207525#m
+http://x.com/MEXC/status/2082315177245163961#m
+http://x.com/MEXC/status/2082300089033441726#m
+http://x.com/MEXC/status/2082282111072194993#m
+http://x.com/kucoincom/status/2082315236061626491#m
+http://x.com/okx/status/2082308152989524336#m
+http://x.com/BingXOfficial/status/2082294542057775194#m
