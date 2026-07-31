@@ -3277,3 +3277,14 @@ http://x.com/KuCoin_Web3/status/2083123024853942467#m
 http://x.com/okx/status/2083115701854957840#m
 http://x.com/BingXOfficial/status/2083114902504575160#m
 http://x.com/coinbase/status/2083125968424554702#m
+http://x.com/binance/status/2083130909029494834#m
+http://x.com/bitget/status/2083147471904264476#m
+http://x.com/bitget/status/2083147469828043156#m
+http://x.com/bitget/status/2083147099584245831#m
+http://x.com/MEXC/status/2083160749812093244#m
+http://x.com/MEXC/status/2083138100646322607#m
+http://x.com/kucoincom/status/2083151501690892756#m
+http://x.com/kucoincom/status/2083144655013847319#m
+http://x.com/kucoincom/status/2083140038032855277#m
+http://x.com/okx/status/2083149449589608842#m
+http://x.com/BingXOfficial/status/2083145145218687075#m
