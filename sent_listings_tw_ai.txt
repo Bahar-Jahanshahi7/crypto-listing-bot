@@ -3764,3 +3764,7 @@ http://x.com/bitget/status/2085048247500857374#m
 http://x.com/Bybit_Official/status/2085063539702607906#m
 http://x.com/Bybit_Official/status/2085063537680843198#m
 http://x.com/MEXC/status/2085055735713734831#m
+http://x.com/MEXC/status/2085085934564057309#m
+http://x.com/okx/status/2085071340617208303#m
+http://x.com/BingXOfficial/status/2085070334542102708#m
+http://x.com/coinbase/status/2085075232163815501#m
