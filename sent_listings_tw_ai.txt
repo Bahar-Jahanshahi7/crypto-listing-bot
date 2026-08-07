@@ -3901,3 +3901,11 @@ http://x.com/MEXC/status/2085667268214612333#m
 http://x.com/Gate/status/2085667463295864979#m
 http://x.com/Gate/status/2085667461672603947#m
 http://x.com/kucoincom/status/2085666651924828624#m
+http://x.com/bitget/status/2085684642901082407#m
+http://x.com/bitget/status/2085681773514825902#m
+http://x.com/Bybit_Official/status/2085682368682090886#m
+http://x.com/Bybit_Official/status/2085680856866140451#m
+http://x.com/Bybit_Official/status/2085680854739652858#m
+http://x.com/MEXC/status/2085682374491115996#m
+http://x.com/kucoincom/status/2085680490787533131#m
+http://x.com/KuCoin_Web3/status/2085667359080222745#m
