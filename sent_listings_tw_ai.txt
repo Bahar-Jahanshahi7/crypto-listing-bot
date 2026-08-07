@@ -3909,3 +3909,7 @@ http://x.com/Bybit_Official/status/2085680854739652858#m
 http://x.com/MEXC/status/2085682374491115996#m
 http://x.com/kucoincom/status/2085680490787533131#m
 http://x.com/KuCoin_Web3/status/2085667359080222745#m
+http://x.com/bitget/status/2085692258075238559#m
+http://x.com/MEXC/status/2085697463323590939#m
+http://x.com/Gate/status/2085695932688118066#m
+http://x.com/okx/status/2085697742035104041#m
