@@ -3969,3 +3969,6 @@ http://x.com/binance/status/2085969259281224013#m
 http://x.com/MEXC/status/2085969256902963561#m
 http://x.com/okx/status/2085977078768284067#m
 http://x.com/Gate/status/2085984452019146766#m
+http://x.com/binance/status/2085999852572344616#m
+http://x.com/Bybit_Official/status/2085999458689458458#m
+http://x.com/MEXC/status/2086001466133647474#m
