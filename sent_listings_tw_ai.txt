@@ -4040,3 +4040,10 @@ http://x.com/MEXC/status/2086392039789543557#m
 http://x.com/Gate/status/2086389453694865848#m
 http://x.com/okx/status/2086384765398065399#m
 http://x.com/bitget/status/2086399759338573887#m
+http://x.com/binance/status/2086422553237631054#m
+http://x.com/Bybit_Official/status/2086422242917810202#m
+http://x.com/Bybit_Official/status/2086422240917082116#m
+http://x.com/MEXC/status/2086422788424995222#m
+http://x.com/Gate/status/2086422337830752697#m
+http://x.com/okx/status/2086430063143104961#m
+http://x.com/BingXOfficial/status/2086432808529174530#m
