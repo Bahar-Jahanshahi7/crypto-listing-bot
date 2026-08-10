@@ -4155,3 +4155,7 @@ http://x.com/binance/status/2086845981165764988#m
 http://x.com/bitget/status/2086848925303267333#m
 http://x.com/bitget/status/2086845150396133671#m
 http://x.com/Bybit_Official/status/2086845026705747986#m
+http://x.com/bitget/status/2086860223482863939#m
+http://x.com/bitget/status/2086857296928477530#m
+http://x.com/okx/status/2086862403199791150#m
+http://x.com/BingXOfficial/status/2086859580101779849#m
