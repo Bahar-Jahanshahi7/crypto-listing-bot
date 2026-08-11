@@ -4298,3 +4298,7 @@ http://x.com/binance/status/2087237710129828163#m
 http://x.com/MEXC/status/2087237617830314484#m
 http://x.com/okx/status/2087240919330255153#m
 http://x.com/BingXOfficial/status/2087230816753537276#m
+http://x.com/bitget/status/2087260496043151717#m
+http://x.com/bitget/status/2087259340180947036#m
+http://x.com/Bitget_TradFi/status/2087199865214316966#m
+http://x.com/krakenfx/status/2087245748752527686#m
