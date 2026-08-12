@@ -4424,3 +4424,5 @@ http://x.com/Bybit_Official/status/2087600000578560039#m
 http://x.com/MEXC/status/2087600002692526267#m
 http://x.com/krakenfx/status/2087603777742184754#m
 http://x.com/krakenfx/status/2087599999253139673#m
+http://x.com/MEXC/status/2087616155217223967#m
+http://x.com/okx/status/2087609063030874248#m
