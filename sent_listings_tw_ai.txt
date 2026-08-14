@@ -4657,3 +4657,4 @@ http://x.com/krakenlistings/status/2088265827426648147#m
 http://x.com/coinbase/status/2088253122174922847#m
 http://x.com/coinbase/status/2088253120547602631#m
 http://x.com/coinbase/status/2088253118257483923#m
+http://x.com/krakenlistings/status/2088252880465867134#m
