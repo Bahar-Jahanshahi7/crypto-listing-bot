@@ -4645,3 +4645,15 @@ http://x.com/MEXC/status/2088249283338498330#m
 http://x.com/Gate/status/2088250158144168305#m
 http://x.com/okx/status/2088245116192407925#m
 http://x.com/PostyXBT/status/2088230885422227809#m
+http://x.com/binance/status/2088264383415660623#m
+http://x.com/bitget/status/2088268152190710050#m
+http://x.com/bitget/status/2088266001662234794#m
+http://x.com/bitget/status/2088264755127664718#m
+http://x.com/MEXC/status/2088265308939358503#m
+http://x.com/kucoincom/status/2088268462766674205#m
+http://x.com/kucoincom/status/2088264378005209281#m
+http://x.com/BingXOfficial/status/2088255557857579498#m
+http://x.com/krakenlistings/status/2088265827426648147#m
+http://x.com/coinbase/status/2088253122174922847#m
+http://x.com/coinbase/status/2088253120547602631#m
+http://x.com/coinbase/status/2088253118257483923#m
