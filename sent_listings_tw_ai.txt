@@ -4684,3 +4684,7 @@ http://x.com/binance/status/2088369352240451972#m
 http://x.com/okx/status/2088377662527946925#m
 http://x.com/MEXC/status/2088394167898493311#m
 http://x.com/BingXOfficial/status/2088412377922273581#m
+http://x.com/binance/status/2088416977672896559#m
+http://x.com/Bybit_Official/status/2088415374412783756#m
+http://x.com/MEXC/status/2088416048760402081#m
+http://x.com/okx/status/2088421666267230493#m
