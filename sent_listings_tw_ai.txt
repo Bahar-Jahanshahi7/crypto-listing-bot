@@ -4875,3 +4875,7 @@ http://x.com/bitget/status/2089366901264880038#m
 http://x.com/bitget/status/2089366641583022529#m
 http://x.com/MEXC/status/2089366644975980689#m
 http://x.com/okx/status/2089374467432583319#m
+http://x.com/BinanceWallet/status/2089297151591641089#m
+http://x.com/Bybit_Official/status/2089381751047045465#m
+http://x.com/Bybit_Official/status/2089381742415093957#m
+http://x.com/kucoincom/status/2089381746878058973#m
