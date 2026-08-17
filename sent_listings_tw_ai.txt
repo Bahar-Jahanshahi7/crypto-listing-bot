@@ -4837,3 +4837,7 @@ http://x.com/Bitget_TradFi/status/2089244421267300549#m
 http://x.com/KuCoin_Web3/status/2089264720423665918#m
 http://x.com/MEXC/status/2089276229358854205#m
 http://x.com/MEXC/status/2089276058780492238#m
+http://x.com/binance/status/2089285177520328888#m
+http://x.com/bitget/status/2089287293639291194#m
+http://x.com/Gate/status/2089291174636822849#m
+http://x.com/Gate/status/2089291172195737821#m
