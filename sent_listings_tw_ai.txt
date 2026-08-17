@@ -4889,3 +4889,6 @@ http://x.com/coinbase/status/2089393428308038137#m
 http://x.com/binance/status/2089412161462296900#m
 http://x.com/Bybit_Official/status/2089411940351127855#m
 http://x.com/krakenlistings/status/2089411783681626613#m
+http://x.com/bitget/status/2089427415911338305#m
+http://x.com/okx/status/2089419764804268343#m
+http://x.com/BingXOfficial/status/2089418266133287186#m
