@@ -5100,3 +5100,5 @@ http://x.com/coinbase/status/2090018294686159346#m
 http://x.com/MEXC/status/2090023470801531387#m
 http://x.com/binance/status/2090031152044134730#m
 http://x.com/kucoincom/status/2090031019248226392#m
+http://x.com/gate_ventures/status/2090030687135142022#m
+http://x.com/okx/status/2090035359518507390#m
