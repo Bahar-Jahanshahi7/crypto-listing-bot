@@ -5118,3 +5118,6 @@ http://x.com/MerlijnTrader/status/2090061222511321335#m
 http://x.com/okx/status/2090067221787877738#m
 http://x.com/bitget/status/2090076442419986656#m
 http://x.com/Bybit_Official/status/2090076317446267030#m
+http://x.com/MEXC/status/2090083866287452243#m
+http://x.com/krakenpro/status/2090080957302763824#m
+http://x.com/krakenfx/status/2090082356287660353#m
