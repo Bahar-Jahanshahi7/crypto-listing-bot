@@ -5109,3 +5109,7 @@ http://x.com/bitget/status/2090048920764465655#m
 http://x.com/Bybit_Official/status/2090046126871240729#m
 http://x.com/Bybit_Official/status/2090046119585698073#m
 http://x.com/CryptosBatman/status/2090025380132401316#m
+http://x.com/bitget/status/2090061846569222630#m
+http://x.com/Bybit_Official/status/2090061228722811096#m
+http://x.com/Bybit_Official/status/2090061220854350118#m
+http://x.com/kucoincom/status/2090061222934933649#m
