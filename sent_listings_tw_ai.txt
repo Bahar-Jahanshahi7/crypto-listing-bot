@@ -5105,3 +5105,7 @@ http://x.com/okx/status/2090035359518507390#m
 http://x.com/bitget/status/2090043294810259778#m
 http://x.com/Bybit_Official/status/2090040285678190899#m
 http://x.com/BingXOfficial/status/2090039681614234067#m
+http://x.com/bitget/status/2090048920764465655#m
+http://x.com/Bybit_Official/status/2090046126871240729#m
+http://x.com/Bybit_Official/status/2090046119585698073#m
+http://x.com/CryptosBatman/status/2090025380132401316#m
