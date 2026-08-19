@@ -5102,3 +5102,6 @@ http://x.com/binance/status/2090031152044134730#m
 http://x.com/kucoincom/status/2090031019248226392#m
 http://x.com/gate_ventures/status/2090030687135142022#m
 http://x.com/okx/status/2090035359518507390#m
+http://x.com/bitget/status/2090043294810259778#m
+http://x.com/Bybit_Official/status/2090040285678190899#m
+http://x.com/BingXOfficial/status/2090039681614234067#m
