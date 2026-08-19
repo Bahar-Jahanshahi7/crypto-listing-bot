@@ -5087,3 +5087,13 @@ http://x.com/okx/status/2089979325948785024#m
 http://x.com/bitget/status/2090001196891419073#m
 http://x.com/MEXC/status/2090000819060101261#m
 http://x.com/KuCoin_Web3/status/2089918285370540457#m
+http://x.com/binance/status/2090016201485271095#m
+http://x.com/Bybit_Ins/status/2090016293046931759#m
+http://x.com/Bybit_Ins/status/2090016290819706978#m
+http://x.com/Bybit_Official/status/2090015925353271356#m
+http://x.com/Gate/status/2090015966339993872#m
+http://x.com/Gate/status/2090015964137955377#m
+http://x.com/kucoincom/status/2090016062767047072#m
+http://x.com/kucoincom/status/2090016024695353541#m
+http://x.com/coinbase/status/2090018366563975222#m
+http://x.com/coinbase/status/2090018294686159346#m
