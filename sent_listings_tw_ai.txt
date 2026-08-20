@@ -5240,3 +5240,7 @@ http://x.com/Bybit_Official/status/2090378308894470302#m
 http://x.com/Bybit_Official/status/2090378306562523242#m
 http://x.com/MEXC/status/2090378318969508030#m
 http://x.com/kucoincom/status/2090378316167717126#m
+http://x.com/Gate/status/2090383037150245322#m
+http://x.com/Gate/status/2090383035417903140#m
+http://x.com/kucoincom/status/2090388078909378882#m
+http://x.com/coinbase/status/2090390347281011081#m
