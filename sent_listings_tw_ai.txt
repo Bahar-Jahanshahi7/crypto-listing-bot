@@ -5328,3 +5328,10 @@ http://x.com/Gate/status/2090620931484139940#m
 http://x.com/okx/status/2090597276838191589#m
 http://x.com/BingXOfficial/status/2090615419526627360#m
 http://x.com/coinbase/status/2090609656112501187#m
+http://x.com/binance/status/2090635000777457852#m
+http://x.com/bitget/status/2090637298123825367#m
+http://x.com/bitget/status/2090632820297515248#m
+http://x.com/bitget/status/2090632818036752783#m
+http://x.com/kucoincom/status/2090632867261079558#m
+http://x.com/kucoincom/status/2090632865025581058#m
+http://x.com/BingXOfficial/status/2090635503439687933#m
