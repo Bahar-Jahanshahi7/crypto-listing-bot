@@ -5394,3 +5394,7 @@ http://x.com/okx/status/2090748277901656145#m
 http://x.com/binance/status/2090756567922589985#m
 http://x.com/bitget/status/2090755920242589929#m
 http://x.com/MEXC/status/2090755800377819625#m
+http://x.com/bitget/status/2090763707811070275#m
+http://x.com/bitget/status/2090763618073944322#m
+http://x.com/coinbase/status/2090764838108606519#m
+http://x.com/coinbase/status/2090764204940661187#m
