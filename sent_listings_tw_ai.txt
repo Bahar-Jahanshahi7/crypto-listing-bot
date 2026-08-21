@@ -5349,3 +5349,6 @@ http://x.com/Gate/status/2090650176276791357#m
 http://x.com/Gate/status/2090650174607503671#m
 http://x.com/kucoincom/status/2090650157129867519#m
 http://x.com/MEXC/status/2090672747370451115#m
+http://x.com/bitget/status/2090679390648864912#m
+http://x.com/bitget/status/2090679386551009554#m
+http://x.com/bitget/status/2090677709701890089#m
