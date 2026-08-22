@@ -5469,3 +5469,7 @@ http://x.com/Gate/status/2091033082996629797#m
 http://x.com/binance/status/2091042895369228712#m
 http://x.com/Bybit_Official/status/2091042685238812957#m
 http://x.com/MEXC/status/2091042687684161644#m
+http://x.com/bitget/status/2091057890043785460#m
+http://x.com/okx/status/2091050280880115861#m
+http://x.com/BingXOfficial/status/2091056511393079338#m
+http://x.com/coinbase/status/2091056891925283113#m
