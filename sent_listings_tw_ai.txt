@@ -5540,3 +5540,4 @@ http://x.com/coinbase/status/2091420374445502759#m
 http://x.com/Gate/status/2091435311687475236#m
 http://x.com/binance/status/2091450542392238411#m
 http://x.com/okx/status/2091457167597445129#m
+http://x.com/MEXC/status/2091465475326967856#m
