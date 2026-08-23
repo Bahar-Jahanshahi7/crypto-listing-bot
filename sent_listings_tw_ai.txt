@@ -5520,3 +5520,5 @@ http://x.com/Bybit_Official/status/2091282266462797827#m
 http://x.com/MEXC/status/2091284286615716091#m
 http://x.com/coinbase/status/2091310957607747825#m
 http://x.com/coinbase/status/2091310741261303962#m
+http://x.com/binance/status/2091314731051045109#m
+http://x.com/okx/status/2091322050279305634#m
