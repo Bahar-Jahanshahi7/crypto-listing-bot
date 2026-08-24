@@ -5614,3 +5614,7 @@ http://x.com/bitget/status/2091798225069994363#m
 http://x.com/bitget/status/2091798221999771950#m
 http://x.com/Bybit_Official/status/2091797668863639784#m
 http://x.com/MEXC/status/2091797660047151429#m
+http://x.com/MEXC/status/2091812772522623031#m
+http://x.com/Gate/status/2091812804470645047#m
+http://x.com/kucoincom/status/2091811925877268556#m
+http://x.com/BingXOfficial/status/2091806325315682580#m
