@@ -5710,3 +5710,11 @@ http://x.com/bitget/status/2092114747969982585#m
 http://x.com/Gate/status/2092114771524952351#m
 http://x.com/Gate/status/2092114769285161385#m
 http://x.com/MEXC/status/2092122298774167799#m
+http://x.com/binance/status/2092144695639949552#m
+http://x.com/binance/status/2092130287660523522#m
+http://x.com/MEXC/status/2092144952880812292#m
+http://x.com/kucoincom/status/2092144953086398875#m
+http://x.com/KuCoinInst/status/2092144008751693868#m
+http://x.com/okx/status/2092137672877756531#m
+http://x.com/BingXOfficial/status/2092136845098524741#m
+http://x.com/BingXOfficial/status/2092136841969594597#m
