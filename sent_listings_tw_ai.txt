@@ -5744,3 +5744,6 @@ http://x.com/MEXC/status/2092190245529788503#m
 http://x.com/kucoincom/status/2092190354405474371#m
 http://x.com/kucoincom/status/2092190333572399216#m
 http://x.com/krakenlistings/status/2092190921739878506#m
+http://x.com/bitget/status/2092205763997610304#m
+http://x.com/bitget/status/2092205761812373901#m
+http://x.com/bitget/status/2092204320574034060#m
