@@ -5862,3 +5862,5 @@ http://x.com/binance/status/2092567973915410915#m
 http://x.com/bitget/status/2092568980531925358#m
 http://x.com/bryanbrinkman/status/2092403672177152188#m
 http://x.com/coinbase/status/2092576866943009082#m
+http://x.com/bitget/status/2092582844484980854#m
+http://x.com/wallstreetbets/status/2092579058202681511#m
