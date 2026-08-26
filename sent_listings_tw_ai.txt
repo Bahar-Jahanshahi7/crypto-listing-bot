@@ -5877,3 +5877,11 @@ http://x.com/bitget/status/2092595958773416270#m
 http://x.com/coinbase/status/2092598711339692380#m
 http://x.com/coinbase/status/2092598707459969426#m
 http://x.com/coinbase/status/2092598705794785531#m
+http://x.com/binance/status/2092613283882709499#m
+http://x.com/bitget/status/2092613283396354171#m
+http://x.com/Bybit_Official/status/2092613068282888258#m
+http://x.com/Bybit_Official/status/2092613035512795393#m
+http://x.com/MEXC/status/2092613042190389326#m
+http://x.com/okx/status/2092609887494869104#m
+http://x.com/krakenfx/status/2092610516954804376#m
+http://x.com/krakenfx/status/2092609147627766172#m
