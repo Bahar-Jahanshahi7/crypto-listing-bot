@@ -5850,3 +5850,7 @@ http://x.com/bitget/status/2092551091103871128#m
 http://x.com/MEXC/status/2092552647182364908#m
 http://x.com/MEXC/status/2092552646817419294#m
 http://x.com/okx/status/2092548884618756391#m
+http://x.com/binance/status/2092555258132083077#m
+http://x.com/bitget/status/2092556873014857759#m
+http://x.com/kucoincom/status/2092559212840931798#m
+http://x.com/BingXOfficial/status/2092560002556776598#m
