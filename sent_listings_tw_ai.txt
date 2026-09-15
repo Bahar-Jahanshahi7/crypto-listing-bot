@@ -7540,3 +7540,8 @@ http://x.com/bitget/status/2099939399186444288#m
 http://x.com/MEXC/status/2099951386838310917#m
 http://x.com/kucoincom/status/2099951461710864454#m
 http://x.com/kucoincom/status/2099951458976161998#m
+http://x.com/bitget/status/2099996686018109666#m
+http://x.com/kucoincom/status/2099981688193351953#m
+http://x.com/okx/status/2099974311083700560#m
+http://x.com/brian_armstrong/status/2100001040062128191#m
+http://x.com/MEXC/status/2099981598112309387#m
