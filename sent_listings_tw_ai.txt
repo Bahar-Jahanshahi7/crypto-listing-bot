@@ -7612,3 +7612,10 @@ http://x.com/krakenlistings/status/2100210627411390891#m
 http://x.com/coinbase/status/2100246123784888584#m
 http://x.com/coinbase/status/2100246122434281925#m
 http://x.com/coinbase/status/2100246120169394388#m
+http://x.com/bitget/status/2100300687389454579#m
+http://x.com/bitget/status/2100298319654510843#m
+http://x.com/kucoincom/status/2100283685220065463#m
+http://x.com/okx/status/2100287394272718860#m
+http://x.com/BingXOfficial/status/2100296436436853162#m
+http://x.com/BingXOfficial/status/2100280282649665642#m
+http://x.com/CoinbasePredict/status/2100284017555767605#m
