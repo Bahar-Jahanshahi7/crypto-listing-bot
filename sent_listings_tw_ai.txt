@@ -7628,3 +7628,5 @@ http://x.com/coinbase/status/2100339116504224141#m
 http://x.com/coinbase/status/2100339114780291439#m
 http://x.com/Bybit_Official/status/2100374172497015169#m
 http://x.com/okx/status/2100381973089005911#m
+http://x.com/Gate/status/2100434597574058276#m
+http://x.com/okx/status/2100427546546327910#m
