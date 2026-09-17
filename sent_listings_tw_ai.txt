@@ -7648,3 +7648,10 @@ http://x.com/krakenlistings/status/2100586733092114487#m
 http://x.com/RVanGrack/status/2100571053843984793#m
 http://x.com/coinbase/status/2100585046612517266#m
 http://x.com/coinbase/status/2100550623066267880#m
+http://x.com/okx/status/2100631115078000768#m
+http://x.com/okx/status/2100608214341411229#m
+http://x.com/coinbase/status/2100647184672710835#m
+http://x.com/coinbase/status/2100632216854290877#m
+http://x.com/brian_armstrong/status/2100625006132691445#m
+http://x.com/krakenfx/status/2100625808914079805#m
+http://x.com/krakenfx/status/2100605976936132952#m
