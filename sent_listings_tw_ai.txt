@@ -7701,3 +7701,4 @@ http://x.com/coinbase/status/2101314008586326355#m
 http://x.com/Gate/status/2101348826619797975#m
 http://x.com/okx/status/2101378564088058204#m
 http://x.com/krakenfx/status/2101385082468516282#m
+http://x.com/okx/status/2101423862214779297#m
