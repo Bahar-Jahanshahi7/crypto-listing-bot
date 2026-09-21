@@ -7721,3 +7721,11 @@ http://x.com/okx/status/2101922166019121655#m
 http://x.com/krakenfx/status/2101988742223307140#m
 http://x.com/coinbase/status/2101999457109725570#m
 http://x.com/coinbase/status/2101950375423049931#m
+http://x.com/okx/status/2102099457395622340#m
+http://x.com/okx/status/2102069408239661118#m
+http://x.com/krakenfx/status/2102092247416086529#m
+http://x.com/krakenfx/status/2102058918536954258#m
+http://x.com/krakenfx/status/2102036395036713121#m
+http://x.com/CoinbaseWallet/status/2102097047155265782#m
+http://x.com/coinbase/status/2102055052143710565#m
+http://x.com/coinbase/status/2102049372045197541#m
