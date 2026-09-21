@@ -7729,3 +7729,7 @@ http://x.com/krakenfx/status/2102036395036713121#m
 http://x.com/CoinbaseWallet/status/2102097047155265782#m
 http://x.com/coinbase/status/2102055052143710565#m
 http://x.com/coinbase/status/2102049372045197541#m
+http://x.com/okx/status/2102148638176669858#m
+http://x.com/krakenfx/status/2102154869750612232#m
+http://x.com/CoinbasePredict/status/2102141640995717505#m
+http://x.com/coinbase/status/2102120382366933326#m
