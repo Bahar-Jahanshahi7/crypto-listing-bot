@@ -7796,3 +7796,7 @@ http://x.com/krakenlistings/status/2103167611400081815#m
 http://x.com/okx/status/2103235801966387629#m
 http://x.com/okx/status/2103214872221941977#m
 http://x.com/Ledger/status/2103119493736132928#m
+http://x.com/okx/status/2103326517422084114#m
+http://x.com/okx/status/2103326127007871402#m
+http://x.com/krakenfx/status/2103289216033513906#m
+http://x.com/krakenfx/status/2103289213911257318#m
